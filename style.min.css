@@ -601,7 +601,7 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
-#title {
+.title {
     color: #ffffff !important;
 }
 h2 {
